@@ -1,0 +1,9 @@
+$ git config --global user.name "AnaninGit"
+
+$ git config --global user.email "Ananin@163.com"
+
+git config --list
+
+ssh -T git@github.com 
+
+git clone https://github.com/AnaninGit/anan.git
